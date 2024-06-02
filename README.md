@@ -1,15 +1,15 @@
-'''code
-sudo git clone
-'''
-'''code
+```code
+sudo git clone https://github.com/Mao-69/PS-Killa.git
+```
+```code
 cd PS-Killa
-'''
-'''code
+```
+```code
 sudo chmod +x Ps-Killa.sh
-'''
-'''code
+```
+```code
 sudo cp Ps-Killa.sh pskilla
-'''
-'''code
+```
+```code
 sudo cp pskilla /bin/pskilla
-'''
+```
