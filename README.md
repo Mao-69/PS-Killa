@@ -5,10 +5,10 @@ sudo git clone https://github.com/Mao-69/PS-Killa.git
 cd PS-Killa
 ```
 ```code
-sudo chmod +x Ps-Killa.sh
+sudo chmod +x Ps_Killa.sh
 ```
 ```code
-sudo cp Ps-Killa.sh pskilla
+sudo cp Ps_Killa.sh pskilla
 ```
 ```code
 sudo cp pskilla /bin/pskilla
